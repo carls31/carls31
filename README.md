@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rumeysakeskin&label=Profile%20views&color=0e75b6&style=flat" alt="rumeysakeskin" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=calrs31&label=Profile%20views&color=0e75b6&style=flat" alt="carls31" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/rumeysakeskin/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rumeysakeskin/" height="30" width="40" /></a>
-<a href="https://leetcode.com/rumeyskeskn/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/rumeyskeskn/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rumeysakeskin/" target="blank"><img src="https://raw.githubusercontent.com/carls31/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rumeysakeskin/" height="30" width="40" /></a>
+<a href="https://leetcode.com/carls31/" target="blank"><img src="https://raw.githubusercontent.com/carls31/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/rumeyskeskn/" height="30" width="40" /></a>
 <a href="https://scholar.google.com/citations?user=qCY0rc4AAAAJ&hl=tr" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" height="30" width="40" /></a></p>
 
 
