@@ -17,9 +17,9 @@
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
     <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/> </a>
   
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=rumeysakeskin&show_icons=true&locale=en&layout=compact" alt="rumeysakeskin" width="340" /></p> 
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=carls31&show_icons=true&locale=en&layout=compact" alt="carls31" width="340" /></p> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rumeysakeskin&show_icons=true&locale=en" alt="rumeysakeskin" width="400" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=carls31&show_icons=true&locale=en" alt="carls31" width="400" /></p>
 
 <!--
 **carls31/carls31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
