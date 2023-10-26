@@ -6,6 +6,12 @@ My name is Lorenzo and I'm a Geoinformatics Engineering student interested in Ma
 <p align="left">
 <a href="https://www.linkedin.com/in/lorenzo-carlassara/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lorenzo-carlassara/" height="30" width="40" /></a></p>
 
+### My projects:
+Be sure to check out my pinned projects below!
+* `mfbo-method` is an efficient method for reducing uncertainty using multi fidelity and Bayesian optimization with a general overview of possible acquisition functions. (rewritten for Torch Functional API).
+* `eo-fire-mapping` assess burn severity indexes for fire mapping using multispectral satellite imagery.
+* `hyperspectral-nn-soil-regression` is a deep neural network for multi-output hyperspectral images regression  (rewritten for Keras Functional API).
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
