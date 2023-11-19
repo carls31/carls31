@@ -10,7 +10,6 @@ My name is Lorenzo and I'm a Geoinformatics Engineering student interested in Ma
 Be sure to check out my pinned projects below!
 * `mfbo-method` is an efficient method for reducing uncertainty using multi fidelity and Bayesian optimization with a general overview of possible acquisition functions. (rewritten for Torch Functional API).
 * `eo-fire-mapping` assess burn severity indexes for fire mapping using multispectral satellite imagery.
-* `hyperspectral-nn-soil-regression` is a deep neural network for multi-output hyperspectral images regression  (rewritten for Keras Functional API).
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
