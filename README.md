@@ -10,6 +10,8 @@ My name is Lorenzo and I'm a Geoinformatics Engineering student interested in Ma
 Be sure to check out my pinned projects below!
 * `mfbo-method` is an efficient method for reducing uncertainty using multi fidelity and Bayesian optimization with a general overview of possible acquisition functions. (rewritten for Torch Functional API).
 * `eo-fire-mapping` assess burn severity indexes for fire mapping using multispectral satellite imagery.
+* `se4geo-lab` iAPP4P - Development of an interactive APPlication for Air Pollution monitoring .
+* `multiclass-logistic-regression-model` for Cardiovascular Heart Disease Prediction.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
