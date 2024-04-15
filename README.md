@@ -28,8 +28,6 @@ Be sure to check out my pinned projects below!
 <a href="https://www.nvidia.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/sco/2/21/Nvidia_logo.svg" width="40" height="40"/> </a> 
 
 
-
-
   
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=carls31&show_icons=true&locale=en&layout=compact" alt="carls31" width="340" /></p> 
 
