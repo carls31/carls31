@@ -10,9 +10,9 @@ My name is Lorenzo and I'm a Geoinformatics Engineering student interested in Ma
 Be sure to check out my pinned projects below!
 
 * `earth-observation-for-fire-mapping ` assess burn severity indexes for fire mapping using multispectral satellite imagery.
-* `se4geo-lab` iAPP4P - Development of an interactive APPlication for Air Pollution monitoring .
+* `se4geo-lab` development of an interactive application for air pollution monitoring .
 * `multiclass-logistic-regression-model` for Cardiovascular Heart Disease Prediction.
-* `an2dl-image-classification` Deep Learning: Transfer Learning approach with the ConvNeXtLarge model for image classification
+* `an2dl-image-classification` Deep Learning: transfer learning approach with the ConvNeXtLarge model 
 * `gis-lab-website` landslide susceptibility map website for geohazard risk assessment and monitoring
 * `mfbo-method` is an efficient method for reducing uncertainty using multi fidelity and Bayesian optimization with a general overview of possible acquisition functions (rewritten for Torch Functional API).
 
