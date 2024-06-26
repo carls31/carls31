@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Lorenzo and I'm a Geoinformatics Engineering student interested in Machine Learning algorithms for Earth Observation. 
+I'm interested in Machine Learning and Deep Learning algorithms for Earth Observation and Remote Sensing. 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=calrs31&label=Profile%20views&color=0e75b6&style=flat" alt="carls31" /> </p>
 <h3 align="left">Connect with me:</h3>
