@@ -10,8 +10,8 @@ I'm interested in Machine Learning and Deep Learning algorithms for Earth Observ
 Be sure to check out my pinned projects below!
 
 * `earth-observation-for-fire-mapping ` assess burn severity indexes for fire mapping using multispectral satellite imagery
-* `se4geo-lab` development of an interactive application for air pollution monitoring
 * `multiclass-logistic-regression-model` for cardiovascular heart disease prediction
+* `se4geo-lab` development of an interactive application for air pollution monitoring
 * `an2dl-image-classification` Deep Learning: transfer learning approach with the ConvNeXtLarge model 
 * `gis-lab-website` landslide susceptibility map website for geohazard risk assessment
 * `mfbo-method` is an efficient method for reducing uncertainty using multi fidelity and Bayesian optimization with a general overview of possible acquisition functions (rewritten for Torch Functional API).
