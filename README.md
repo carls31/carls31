@@ -9,7 +9,7 @@ Interested in:
  - Earth Observation and Remote Sensing
  - Health and environmental sustainability
 
-Besides my academic pursuits, I am a sportsman person, enthusiast in discovering new places. Also, I really like cooking and listening to music.
+Also, I am a sportsman person, enthusiast in discovering new places, I really like cooking and listening to music.
 
 ## Skills
 
