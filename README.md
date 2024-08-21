@@ -45,7 +45,7 @@ Also, I am a sportsman person, enthusiast in discovering new places, I really li
 <a href="https://www.linkedin.com/in/lorenzo-carlassara/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lorenzo-carlassara/" height="30" width="40" /></a></p>
 
 ## Projects:
-I enjoy working on challenging task that allow me to explore new concepts. Here are my pinned projects, be sure to check out:
+I enjoy working on challenging tasks that allow me to explore new concepts. Here are my pinned projects, be sure to check out:
 
 * `earth-observation-for-fire-mapping ` assess burn severity indexes for fire mapping using multispectral satellite imagery
 * `multiclass-logistic-regression-model` for cardiovascular heart disease prediction
