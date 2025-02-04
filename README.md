@@ -1,13 +1,13 @@
 ### Hi there 👋
-I'm Lorenzo Carlassara, Mathematical Engineer and Geoinformatics Engineering Master's candidate at Politecnico di Milano, currently at the University of Bonn, Germany.
+I'm Lorenzo Carlassara, Mathematical Engineer and Geoinformatics Engineering Master's candidate at Politecnico di Milano, as well as, Climate Intelligence Specialist at ClimateCharted.
 
 Welcome to my GitHub profile!
 
 ## About Me
 Interested in:
- - Machine Learning and Deep Learning algorithms and methods
- - Earth Observation and Remote Sensing
- - Health and environmental sustainability
+ - Machine Learning and Deep Learning algorithms 
+ - Earth Observation and Remote Sensing applications
+ - Climate Risk Modeling and Natural Hazard assessment
 
 Also, I am a sportsman person, enthusiast in discovering new places, I really like cooking and listening to music.
 
