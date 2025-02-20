@@ -36,7 +36,7 @@ Also, I am a sportsman person, enthusiast in discovering new places, I really li
 
 - **Problem Solving:** Analytical Thinking, Algorithmic Approach, Debugging and Troubleshooting, Collaborative  Solutions, & Continuous Learning
 - **Version Control:** Git & GitHub
-- **Languages:** English (C1), Italian (C2)
+- **Languages:** English (C1), Italian (Native)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=calrs31&label=Profile%20views&color=0e75b6&style=flat" alt="carls31" /> </p>
 
