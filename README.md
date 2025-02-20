@@ -13,11 +13,11 @@ Also, I am a sportsman person, enthusiast in discovering new places, I really li
 
 ## Skills
 
-- **Programming Languages:** Python, R, MATLAB, JavaScript, SQL, C
+- **Programming Languages:** Python, R, MATLAB, SQL, JavaScript, C
 - **Libraries**: PyTorch, Keras, TensorFlow, Qiskit, Botorch, kernlab, caret, e1071 
 - **Frameworks & Technologies:**
     - **GIS Software**: Google Earth Engine, QGIS, ArcGIS;
-    - **Databases**: PostGreSQL, PostGIS, pgAdmin, Geoserver, Apache;
+    - **Databases**: PostGreSQL, PostGIS;
     - **Front-End**: HTML5, CSS3;
 
 <p align="left"> 
