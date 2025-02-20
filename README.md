@@ -7,7 +7,7 @@ Welcome to my GitHub profile!
 Interested in:
  - Machine Learning and Deep Learning algorithms 
  - Earth Observation and Remote Sensing applications
- - Climate Risk Modeling and Natural Hazard assessment
+ - Climate Risk Modeling for Natural Hazard assessment
 
 Also, I am a sportsman person, enthusiast in discovering new places, I really like cooking and listening to music.
 
