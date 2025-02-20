@@ -34,7 +34,7 @@ Also, I am a sportsman person, enthusiast in discovering new places, I really li
 <a href="https://www.nvidia.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/sco/2/21/Nvidia_logo.svg" width="40" height="40"/> </a> 
 <a href="https://www.ibm.com/quantum/qiskit" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Qiskit-Logo.svg" width="40" height="40"/> </a> 
 
-- **Problem Solving:** Analytical Thinking, Algorithmic Approach, Debugging and Troubleshooting, Collaborative  Solutions, & Continuous Learning
+- **Problem Solving:** Analytical Thinking, Algorithmic Approach, Debugging and Troubleshooting, Collaborative  Solutions & Continuous Learning
 - **Version Control:** Git & GitHub
 - **Languages:** English (C1), Italian (Native)
 
