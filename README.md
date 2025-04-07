@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Lorenzo Carlassara, Geoinformatics Engineer, as well as, Catastrophe Risk Specialist at ClimateCharted.
+I'm Lorenzo Carlassara, Geoinformatics Engineer, as well as, Georisk scientist at ClimateCharted.
 
 Welcome to my GitHub profile!
 
@@ -7,7 +7,7 @@ Welcome to my GitHub profile!
 Interested in:
  - Machine Learning and Deep Learning algorithms 
  - Earth Observation and Remote Sensing applications
- - Climate Risk Modeling for Natural Hazard assessment
+ - Catastrophe Risk Modeling for Natural Hazard assessment 
 
 Also, I am a sportsman person, enthusiast in discovering new places, I really like cooking and listening to music.
 
