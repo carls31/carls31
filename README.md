@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Lorenzo Carlassara, Mathematical Engineer and Geoinformatics Engineering Master's candidate at Politecnico di Milano, as well as, Climate Intelligence Specialist at ClimateCharted.
+I'm Lorenzo Carlassara, Geoinformatics Engineer, as well as, Catastrophe Risk Specialist at ClimateCharted.
 
 Welcome to my GitHub profile!
 
