@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Lorenzo Carlassara, Geoinformatics Engineer, as well as, Georisk scientist at ClimateCharted.
+I'm Lorenzo Carlassara, Geoinformatics Engineer, as well as, NatCat-Risk scientist at ClimateCharted S.r.l.
 
 Welcome to my GitHub profile!
 
