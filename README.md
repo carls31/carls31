@@ -5,7 +5,7 @@ Welcome to my GitHub profile!
 
 ## About Me
 Interested in:
- - Machine Learning and Deep Learning algorithms 
+ - Statistics and Machine Learning algorithms 
  - Earth Observation and Remote Sensing applications
  - Catastrophe Risk Modeling for Natural Hazard assessment 
 
