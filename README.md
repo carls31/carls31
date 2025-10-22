@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Lorenzo Carlassara, Geospatial Risk Data Scientist at ClimateCharted S.r.l.
+I'm Lorenzo Carlassara, Geospatial Data Scientist at ClimateCharted S.r.l.
 
 Welcome to my GitHub profile!
 
