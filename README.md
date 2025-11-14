@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Lorenzo Carlassara, Geospatial Data Scientist at ClimateCharted S.r.l.
+I'm Lorenzo Carlassara, Geospatial Data Scientist at ClimateCharted S.r.l. and Executive PhD Candidate at Politecnico di Milano.
 
 Welcome to my GitHub profile!
 
@@ -13,12 +13,12 @@ Also, I am a sportsman person, enthusiast in discovering new places, I really li
 
 ## Skills
 
-- **Programming Languages:** Python, R, MATLAB, SQL, JavaScript, C
-- **Libraries**: PyTorch, Keras, TensorFlow, Qiskit, Botorch, kernlab, caret, e1071 
+- **Programming Languages:** Python, R, MATLAB
+- **Libraries**: Xarrai, Rasterio, Torch, TensorFlow, Qiskit, kernlab, caret, e1071 
 - **Frameworks & Technologies:**
-    - **GIS Software**: Google Earth Engine, QGIS, ArcGIS;
+    - **GIS Software**: QGIS, Google Earth Engine;
     - **Databases**: PostGreSQL, PostGIS;
-    - **Front-End**: HTML5, CSS3;
+    - **Version Control**: Git;
 
 <p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
