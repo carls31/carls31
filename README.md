@@ -17,6 +17,10 @@ Also, I am a sportsman person, enthusiast in discovering new places, I really li
     - **Databases**: PostGreSQL, PostGIS;
     - **Version Control**: Git;
 
+- **Problem Solving:** Analytical Thinking, Algorithmic Approach, Debugging and Troubleshooting, Collaborative  Solutions & Continuous Learning
+- **Version Control:** Git & GitHub
+- **Languages:** English (C1), Italian (Native)
+
 <p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
@@ -24,11 +28,7 @@ Also, I am a sportsman person, enthusiast in discovering new places, I really li
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1920px-R_logo.svg.png" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
- <a href="https://gdal.org/en/" target="_blank" rel="noreferrer"> <img src="https://gdal.org/en/stable/_static/gdalicon.png" alt="gdal" width="40" height="40"/> </a> 
-
-- **Problem Solving:** Analytical Thinking, Algorithmic Approach, Debugging and Troubleshooting, Collaborative  Solutions & Continuous Learning
-- **Version Control:** Git & GitHub
-- **Languages:** English (C1), Italian (Native)
+<a href="https://gdal.org/en/" target="_blank" rel="noreferrer"> <img src="https://gdal.org/en/stable/_static/gdalicon.png" alt="gdal" width="40" height="40"/> </a> 
 
 <!--
 
