@@ -38,17 +38,16 @@ Also, I am a sportsman person, enthusiast in discovering new places, I really li
 - **Version Control:** Git & GitHub
 - **Languages:** English (C1), Italian (Native)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=calrs31&label=Profile%20views&color=0e75b6&style=flat" alt="carls31" /> </p>
 
 ## Projects:
 I enjoy working on challenging tasks that allow me to explore new concepts. Here are my pinned projects, be sure to check out:
 
 * `earth-observation-for-fire-mapping ` assess burn severity indexes for fire mapping using multispectral satellite imagery
-* `multiclass-logistic-regression-model` for cardiovascular heart disease prediction
 * `se4geo-lab` development of an interactive application for air pollution monitoring
 * `an2dl-image-classification` Deep Learning: transfer learning approach with the ConvNeXtLarge model 
 * `gis-lab-website` landslide susceptibility map website for geohazard risk assessment
-* `mfbo-method` is an efficient method for reducing uncertainty using multi fidelity and Bayesian optimization with a general overview of possible acquisition functions (rewritten for Torch Functional API).
+* `mfbo-method` an efficient method for reducing uncertainty using multi fidelity and Bayesian optimization with a general overview of possible acquisition functions (rewritten for Torch Functional API)
+* * `multiclass-logistic-regression-model` for cardiovascular heart disease prediction
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -59,17 +58,4 @@ I enjoy working on challenging tasks that allow me to explore new concepts. Here
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=carls31&show_icons=true&locale=en" alt="carls31" width="400" /></p>
 
-<!--
-**carls31/carls31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=calrs31&label=Profile%20views&color=0e75b6&style=flat" alt="carls31" /> </p>
