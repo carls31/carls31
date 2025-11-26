@@ -1,5 +1,9 @@
 ### Hi there 👋
 I'm Lorenzo Carlassara, Geoinformatics Engineer at ClimateCharted S.r.l. and Executive PhD Candidate at Politecnico di Milano.
+<!--
+Geospatial AI and Disaster Risk 
+Researcher
+-->
 
 Interested in:
  - Statistics and Machine Learning algorithms 
