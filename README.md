@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Lorenzo Carlassara, Climatfe Intelligence Specialist at ClimateCharted S.r.l. and Executive PhD Candidate in Geomatics at Politecnico di Milano.
+I'm Lorenzo Carlassara, Climate Intelligence Specialist at ClimateCharted S.r.l. and Executive PhD Candidate in Geomatics at Politecnico di Milano.
 <!--
 Geospatial AI and Disaster Risk 
 Researcher
